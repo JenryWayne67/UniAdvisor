@@ -1,0 +1,8 @@
+{
+  "name": "AI University Advisor",
+  "description": "An AI-powered university advisor and recommendation system for students in Myanmar, matching academic results, interests, and cutoff requirements with top universities and degree programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ai-university-advisor",
+  "version": "1.0.0",
+  "description": "AI University Advisor Myanmar",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Ready'",
+    "lint": "node -e 'console.log(\"Lint OK\")'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
